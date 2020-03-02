@@ -1,7 +1,7 @@
 # energy-efficiency-of-homes
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-50573338) that nearly two thirds of UK homes fail to meet long-term energy efficiency targets.
 
-We used the data from the domestic EPC register (Energy Performance Certificates) to find the percentage of homes in each local authority area in the UK that were rated D-G.
+We used data from the domestic EPC register (Energy Performance Certificates) to find the percentage of homes in each local authority area in the UK that were rated D-G.
 Government targets had set out to ensure all homes in England and Wales were C grade or above by 2035.
 
 This found:
