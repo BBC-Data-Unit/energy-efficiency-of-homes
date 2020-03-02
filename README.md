@@ -18,4 +18,5 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Hereford Times: [Huge sums wasted by inefficient Herefordshire homes](https://www.herefordtimes.com/news/18267292.huge-sums-wasted-inefficient-herefordshire-homes/) *2 March 2020*
 * MKFM: [Nearly half of homeowners in Milton Keynes could be losing HUNDREDS due to failed energy savings](https://www.mkfm.com/news/local-news/half-of-homeowners-in-milton-keynes-are-losing-hundreds-due-to-failed-energy-saving/) *2 March 2020*
+* Rochdale Online: [How energy efficient are homes in the borough of Rochdale?](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/132960/how-energy-efficient-are-homes-in-the-borough-of-rochdale) *2 March 2020*
 * Swindon Advertiser: [Burning money: too many homes cost too much to heat](https://www.swindonadvertiser.co.uk/news/18273473.burning-money-many-homes-cost-much-heat/) *2 March 2020*
