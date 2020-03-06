@@ -36,7 +36,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * T3.com: [Two-thirds of UK homes have higher energy costs than they should - but you can reduce your bills](https://www.t3.com/news/two-thirds-of-uk-homes-have-higher-energy-bills-than-they-should-but-you-can-reduce-your-bills) *3 March 2020*
 * West Bridgford Wire: [How energy efficient are Nottinghamshire homes? – see data by local authority area](https://westbridgfordwire.com/how-energy-efficient-are-nottinghamshire-homes-see-data-by-local-authority-area/) *4 March 2020*
 
+## Visualisation
 
+* Bar chart: Millions of homes below energy efficiency targets (by nation in the UK)
+* Bar chart: Local authorities with the highest emissions
 
 ## Here is the data 
 
