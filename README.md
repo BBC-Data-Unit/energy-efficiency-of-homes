@@ -1,4 +1,5 @@
-# energy-efficiency-of-homes
+# Two-thirds of UK homes 'fail on energy efficiency targets'
+
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-50573338) that nearly two thirds of UK homes fail to meet long-term energy efficiency targets.
 
 We used data from the domestic EPC register (Energy Performance Certificates) to find the percentage of homes in each local authority area in the UK that were rated D-G.
@@ -6,9 +7,9 @@ Government targets had set out to ensure all homes in England and Wales were C g
 
 This found:
 
-Nearly two-thirds of homes registered are rated D-G for energy efficiency and fail the government target of C grade or above, around 12 million properties across the UK.
-Homes in Yorkshire and the Humber and Wales were among the most inefficient, with 67% of the domestic properties registered rated D-G.
-According to the register, homeowners in England and Wales could save an average of around £250 a year on household bills for heating, lighting and water if their homes underwent improvements.
+- Nearly two-thirds of homes registered are rated D-G for energy efficiency and fail the government target of C grade or above, around 12 million properties across the UK.
+- Homes in Yorkshire and the Humber and Wales were among the most inefficient, with 67% of the domestic properties registered rated D-G.
+- According to the register, homeowners in England and Wales could save an average of around £250 a year on household bills for heating, lighting and water if their homes underwent improvements.
 
 Register data for Northern Ireland was not freely available and was obtained on request.
 
