@@ -1,5 +1,7 @@
 # Two-thirds of UK homes 'fail on energy efficiency targets'
 
+![](https://ichef.bbci.co.uk/news/660/cpsprodpb/D78A/production/_109987155_thermal.png)
+
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-50573338) that nearly two thirds of UK homes fail to meet long-term energy efficiency targets.
 
 We used data from the domestic EPC register (Energy Performance Certificates) to find the percentage of homes in each local authority area in the UK that were rated D-G.
