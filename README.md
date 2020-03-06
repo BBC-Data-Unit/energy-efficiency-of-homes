@@ -24,3 +24,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * MKFM: [Nearly half of homeowners in Milton Keynes could be losing HUNDREDS due to failed energy savings](https://www.mkfm.com/news/local-news/half-of-homeowners-in-milton-keynes-are-losing-hundreds-due-to-failed-energy-saving/) *2 March 2020*
 * Rochdale Online: [How energy efficient are homes in the borough of Rochdale?](https://www.rochdaleonline.co.uk/news-features/2/news-headlines/132960/how-energy-efficient-are-homes-in-the-borough-of-rochdale) *2 March 2020*
 * Swindon Advertiser: [Burning money: too many homes cost too much to heat](https://www.swindonadvertiser.co.uk/news/18273473.burning-money-many-homes-cost-much-heat/) *2 March 2020*
+
+## Here is the data 
+
+* [Energy Efficiency of Homes data](https://docs.google.com/spreadsheets/d/1GyqS_hCOvVCyz4nIq9Z3CpRZkHCnhL8t492Uj2_vcuE/edit#gid=1585762712)
+
+## Background and briefing
+
+* [A full briefing pack on the story can be found here](https://docs.google.com/document/d/1Mwo8qXcBYU9IKVcovaWMFTbJx8S8wSyIV44_9-Pgju8/edit)
