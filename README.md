@@ -35,6 +35,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Lynn News: [Most West Norfolk homes do not meet energy efficiency targets](https://www.lynnnews.co.uk/news/most-west-norfolk-homes-do-not-meet-energy-efficiency-targets-9101388/) *3 March 2020*
 * T3.com: [Two-thirds of UK homes have higher energy costs than they should - but you can reduce your bills](https://www.t3.com/news/two-thirds-of-uk-homes-have-higher-energy-bills-than-they-should-but-you-can-reduce-your-bills) *3 March 2020*
 * West Bridgford Wire: [How energy efficient are Nottinghamshire homes? – see data by local authority area](https://westbridgfordwire.com/how-energy-efficient-are-nottinghamshire-homes-see-data-by-local-authority-area/) *4 March 2020*
+* The Inverness Courier: [More needs to be done to make Highland properties more energy efficient](https://www.inverness-courier.co.uk/news/more-needs-to-be-done-to-make-highland-properties-more-energy-efficient-193139/) *8 March 2020*
 
 ## Visualisation
 
