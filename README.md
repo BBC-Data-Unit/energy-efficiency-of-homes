@@ -37,7 +37,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * West Bridgford Wire: [How energy efficient are Nottinghamshire homes? – see data by local authority area](https://westbridgfordwire.com/how-energy-efficient-are-nottinghamshire-homes-see-data-by-local-authority-area/) *4 March 2020*
 * The Inverness Courier: [More needs to be done to make Highland properties more energy efficient](https://www.inverness-courier.co.uk/news/more-needs-to-be-done-to-make-highland-properties-more-energy-efficient-193139/) *8 March 2020*
 
-The story was also used by BBC Radio Shropshire, BBC Somerset, BBC Radio Cornwall, BBC WM and BBC Radio Norfolk.
+The story was also used by BBC Inside Out West Midlands, BBC Inside Out East Midlands, BBC Inside Out South East, BBC Radio Shropshire, BBC Somerset, BBC Radio Cornwall, BBC WM and BBC Radio Norfolk.
 
 ## Visualisation
 
