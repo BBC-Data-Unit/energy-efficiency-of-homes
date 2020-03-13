@@ -38,8 +38,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Inverness Courier: [More needs to be done to make Highland properties more energy efficient](https://www.inverness-courier.co.uk/news/more-needs-to-be-done-to-make-highland-properties-more-energy-efficient-193139/) *8 March 2020*
 * Harrogate Advertiser: [Two thirds of Harrogate homes fall below government’s energy efficiency target](https://www.harrogateadvertiser.co.uk/news/environment/two-thirds-harrogate-homes-fall-below-governments-energy-efficiency-target-2449867) *13 March 2020*
 * The Scarborough News: [Two thirds of Scarborough and Whitby homes fall below government’s energy efficiency target](https://www.thescarboroughnews.co.uk/news/environment/two-thirds-scarborough-and-whitby-homes-fall-below-governments-energy-efficiency-target-2449856) *13 March 2020*
-
-
+* Daily Express: [One in four UK homeowners plans to make their house more energy efficient, research finds](https://www.express.co.uk/life-style/life/1254692/eco-friendly-house-UK-research) *13 March 2020*
+* Daily Star: [Over 12 million UK homes fail energy efficient performance standards](https://www.dailystar.co.uk/news/latest-news/over-12-million-uk-homes-21688577) *13 March 2020*
 
 The story was also used by BBC Inside Out West Midlands, BBC Inside Out East Midlands, BBC Inside Out South East, BBC Radio Shropshire, BBC Somerset, BBC Radio Cornwall, BBC WM and BBC Radio Norfolk.
 
